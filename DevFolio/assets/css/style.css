@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #1e1e1e;
+  color: rgb(238, 38, 161);
 }
 
 a {
@@ -157,7 +157,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: rgb(6, 153, 38);
   margin: 0 auto;
 }
 
