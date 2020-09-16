@@ -14,13 +14,18 @@ body {
 }
 
 h1,
-h2,
+/* h2, */
 h3,
 h4,
 h5,
 h6 {
   color: rgb(238, 38, 161);
 }
+
+h2{
+  color: purple;
+}
+
 
 a {
   color: #1e1e1e;
