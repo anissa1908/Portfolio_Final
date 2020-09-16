@@ -1363,7 +1363,7 @@ a:hover {
 --------------------------------------------------------------*/
 footer {
   text-align: center;
-  color: #fff;
+  color: rgb(6, 153, 38);
   padding: 25px 0;
   background: black;
 }
