@@ -23,7 +23,7 @@ h6 {
 }
 
 h2{
-  color: darkslategrey;
+  color: green;
 }
 
 
@@ -764,7 +764,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Skills
 --------------------------------------------------------------*/
 .service-box {
   background-color: #fff;
@@ -980,7 +980,7 @@ a:hover {
 }
 
 .testimonial-box {
-  color: #fff;
+  color: white;
   text-align: center;
 }
 
