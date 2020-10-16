@@ -1,9 +1,12 @@
-<<<<<<< HEAD
 # Portfolio_Final
-=======
 
-CONCEPT
-This application was designed for the purpose of providing a unique, one-stop application experience where members are able to research and retrieve recipes for their favorite drinks, learn about the history of spirits, add/update their own recipes to our database, and review testimonials. With most bars and pubs closed due to the pandemic, this application gives the user the opportunity to become their own home bartender.
+## Concept
+This website highlights my accomplishments as a new graduate of UCLA's Full Stack Web Development Bootcamp where I learned many programming languages and back-end technologies. It was in this program that I discovered my passion for clean UI designs and innovative concepts as portrayed on the projects I highlight in the Portfolio. My group and I will be presenting "Express Bartender" at the upcoming Demo Day on Nov. 4, 2020.
+
+## Usage
+
+This takes the user 
+ 
 
 USAGE
 
@@ -41,4 +44,3 @@ IMAGE OF DEPLOYED APPLICATION
 AUTHORS AND ACKNOWLEDGEMENT
 
 
->>>>>>> 2925a2ebab2a85df88bba23278846d1f74295d0a
