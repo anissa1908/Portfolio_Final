@@ -38,8 +38,7 @@ https://anissa1908.github.io/Portfolio_Final2/
 
 
 ## IMAGE OF DEPLOYED APPLICATION
-
-![]<img src="https://anissa1908.github.io/Portfolio_Final2/">
+![](assets\img\Portfolio home page.png)
 
 
 
