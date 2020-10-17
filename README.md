@@ -39,7 +39,7 @@ https://anissa1908.github.io/Portfolio_Final2/
 
 ## IMAGE OF DEPLOYED APPLICATION
 
-![](assets\img\Portfolio home page.png)
+<img src="assets\img\Portfolio home page.png">
 
 
 
