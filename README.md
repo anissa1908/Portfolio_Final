@@ -38,10 +38,7 @@ https://anissa1908.github.io/Portfolio_Final2/
 
 
 ## IMAGE OF DEPLOYED APPLICATION
-<<<<<<< HEAD
 
-=======
->>>>>>> e05fd804774274aac4f9e5ae8b31dfd049d6e21d
 <img src="assets\img\Portfolio home page.png">
 
 
