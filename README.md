@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## Concept
-This website highlights my accomplishments as a new graduate of UCLA's Full Stack Web Development Bootcamp where I learned many programming languages and back-end technologies. It was in this program that I discovered my passion for front-end design, developing clean User Interfaces and innovative design concepts as shown in the projects "Express Bartender" and "Inform and React". My technical project management skills utilizing Agile and Scrum methodologies were further developed as I guided my group team projects in daily stand up meetings, sprints and other project management activities, ensuring all project milestones were met ahead of schedule.
+This website highlights my accomplishments as a new graduate of UCLA's Full Stack Web Development Bootcamp where I learned many programming languages and back-end technologies. It was in this program that I discovered my passion for front-end design, developing clean user interfaces and innovative design concepts as shown in the projects "Express Bartender" and "Inform and React". My technical project management skills utilizing Agile and Scrum methodologies were further developed as I guided my group team projects in daily stand up meetings, sprints and other project management activities, ensuring all project milestones were met ahead of schedule.
 
 ## Usage
 
