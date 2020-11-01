@@ -23,12 +23,7 @@ Contact
 
 ## Technologies Used
 
-HTML
-CSS
-JavaScript
-jQuery
-qrcode-generator
-Node.js
+HTML, CSS, JavaScript, jQuery, Node.js, FontAwesome
 
 
 
